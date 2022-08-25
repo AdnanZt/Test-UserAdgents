@@ -1,16 +1,23 @@
-# test_useradgents
+# Order Big Burger Menu App 
 
-A new Flutter project.
+## 📚 How to build
+1. flutter pub get
+2. flutter pub run build_runner build --delete-conflicting-outputs
 
-## Getting Started
+<a name="features"/>
 
-This project is a starting point for a Flutter application.
+## 💡 Features 
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Fetch Big Burger catalog
+- [x] Add items to cart
+- [x] Clear cart
+- [x] Remove any item from cart
+- [x] Display cart items total price
+- [x] Handle response error
+- [x] Update quantity if items is already in cart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔥 Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/77111469/186736844-edcd3b60-3daa-40e4-bbb8-d96115312c50.mp4
+
+
